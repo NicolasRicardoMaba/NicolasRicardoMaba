@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @NicolasRicardoMaba
-- 👀 I’m interested in Study Java and Project Patterns
-- 🌱 I’m currently learning Java 
-- 📫 How to reach me:nicolas.rm2005@aluno.ifsc.edu.br 
 
-<!---
-NicolasRicardoMaba/NicolasRicardoMaba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+
+  <a href="https://github.com/NicolasRicardoMaba">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=NicolasRicardoMaba&show_icons=true&theme=dark&"/>
+  
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasRicardoMaba&layout=compact&langs_count=10&theme=dark"/>
+ 
+</div>
