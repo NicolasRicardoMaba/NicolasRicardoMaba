@@ -13,5 +13,5 @@
 <div align="center">
   <h1>📈 Status</h1>
   <img height="300em" width="250" src="https://github-readme-stats.vercel.app/api?username=NicolasRicardoMaba&show_icons=true&theme=transparent"/>
-  <img  height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasRicardoMaba&layout=compact&langs_count=16&theme=transparent"/>
+  <img  height="300em" width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasRicardoMaba&layout=compact&langs_count=16&theme=transparent"/>
 </div>
