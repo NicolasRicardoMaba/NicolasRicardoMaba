@@ -9,13 +9,9 @@
     <img align="center" height="30" width="40" alt="java-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
     <img align="center" height="30" width="40" alt="springBoot-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
     <img align="center" height="30" width="40" alt="angular-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-  </div>
-  <hr>
-    
-<br>
-</div>
-<div>
+<hr>
+<div align="center">
   <h1>📈 Status</h1>
-  <img align="left" height="170em" src="https://github-readme-stats.vercel.app/api?username=NicolasRicardoMaba&show_icons=true&theme=transparent"/>
-  <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasRicardoMaba&layout=compact&langs_count=16&theme=transparent"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=NicolasRicardoMaba&show_icons=true&theme=transparent"/>
+  <img  height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasRicardoMaba&layout=compact&langs_count=16&theme=transparent"/>
 </div>
