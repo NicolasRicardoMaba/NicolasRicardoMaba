@@ -17,6 +17,6 @@
 
 <div align="center">
   <h1>📈 Status</h1>
-  <img align="left" height="170em" src="https://github-readme-stats.vercel.app/api?username=pedrogodri&show_icons=true&theme=transparent"/>
-  <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrogodri&layout=compact&langs_count=16&theme=transparent"/>
+  <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=NicolasRicardoMaba&show_icons=true&theme=transparent"/>
+  <img  height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasRicardoMaba&layout=compact&langs_count=16&theme=transparent"/>
 </div>
