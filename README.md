@@ -12,7 +12,7 @@
   </div>
     
 <br>
-
+</div>
 <div>
   <h1>📈 Status</h1>
   <img align="left" height="170em" src="https://github-readme-stats.vercel.app/api?username=NicolasRicardoMaba&show_icons=true&theme=transparent"/>
