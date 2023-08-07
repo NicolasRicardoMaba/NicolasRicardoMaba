@@ -10,6 +10,7 @@
     <img align="center" height="30" width="40" alt="springBoot-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
     <img align="center" height="30" width="40" alt="angular-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
   </div>
+  <hr>
     
 <br>
 </div>
